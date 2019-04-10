@@ -1,6 +1,0 @@
-c:\users\htosun\documents\visual studio 2015\Projects\TCKimlikSorgula\TCKimlikSorgula\bin\Debug\TCKimlikSorgula.exe.config
-c:\users\htosun\documents\visual studio 2015\Projects\TCKimlikSorgula\TCKimlikSorgula\bin\Debug\TCKimlikSorgula.exe
-c:\users\htosun\documents\visual studio 2015\Projects\TCKimlikSorgula\TCKimlikSorgula\bin\Debug\TCKimlikSorgula.pdb
-c:\users\htosun\documents\visual studio 2015\Projects\TCKimlikSorgula\TCKimlikSorgula\obj\Debug\TCKimlikSorgula.csprojResolveAssemblyReference.cache
-c:\users\htosun\documents\visual studio 2015\Projects\TCKimlikSorgula\TCKimlikSorgula\obj\Debug\TCKimlikSorgula.exe
-c:\users\htosun\documents\visual studio 2015\Projects\TCKimlikSorgula\TCKimlikSorgula\obj\Debug\TCKimlikSorgula.pdb
